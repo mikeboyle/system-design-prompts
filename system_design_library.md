@@ -5,8 +5,15 @@ Consider the information and user stories below, and describe how your software 
 
 This is not a coding exercise but you will probably want to sketch or type some things.
 
-There are many ways to succeed at this challenge. You may want to consider the database schema, API endpoints, front end architecture, or infrastructure.
+There are many ways to succeed at this challenge. You may want to consider the database schema, API endpoints, front end architecture (screens, global state, component hierarchy), or infrastructure.
 
+## Key Requirements
+The library software has two main functions. See `Resources` and `User stories` below for more details.
+
+1. Keep track of which books it has, and which are available.
+1. Allow library users to check out and return books.
+
+## Resources
 The library needs to keep track of **books** and **users** (and maybe other things!)
 
 A **book** has a _title_, _author_, and _ISBN number_ (and maybe other things!).
