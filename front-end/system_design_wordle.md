@@ -1,6 +1,6 @@
 # Front End System Design Intervew: Wordle
 
-In this exercise, you are going to use the mockup of the game Wordle (see below) and describe how we might create its interactive UI components.
+In this exercise, you are going to use the mockup of the game [Wordle](https://www.nytimes.com/games/wordle/index.html) (see below) and describe how we might break it down into interactive UI components.
 
 ### Objectives
 - Explain the main UI components we will need
