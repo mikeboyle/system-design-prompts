@@ -6,8 +6,8 @@ In this exercise, you are going to use the mockup of the game [Wordle](https://w
 - Explain the main UI components we will need
 - Explain how these components are related (for example in a tree or hierarchy of components)
 - Explain what state and props these components hold, and how data and functionality is shared between them.
-- Explain the global state of the application. What pieces of data do multiple components need to know?
-- As you consider each screen, feel free to revise your decisions based on earlier screens.
+- Explain the global state of the application. What pieces of data do multiple components need to know? What data the application needs to make the game functional.
+- As you consider each screen, feel free to revise your ideas and decisions.
 
 ### _Not_ objectives
 
