@@ -17,7 +17,7 @@ The library software has two main functions. See `Resources` and `User stories` 
 The library needs to keep track of **books** and **users** (and maybe other things!)
 
 A **book** has a _title_, _author_, and _ISBN number_ (and maybe other things!).
-Every book also has an _category_, which for now is either `"children"` or `"general"`. 
+Every book also has a _category_, which for now is either `"children"` or `"general"`. 
 Also important: The library may have multiple copies of the same book.
 
 A **user** has a _name_, _id number_, and _username_ (and maybe other things!).
@@ -38,8 +38,10 @@ If a user is over 18 years old, they are an adult user.
 1. As a student user, I can check out up to 5 books (children or general) for up to 2 weeks per book.
 1. As an adult user, I can check out up to 3 books (children or general) for up to 1 week per book.
 1. As a user, I want to see which books I've checked out and when they are due.
-1. As a user, I want to update the site when I return a book I've checked out.
 1. As a user, I should not be able to see what other users have checked out.
+
+### Returning books
+1. When a book is returned, it should become available again.
 
 ### Bonus user stories
 1. As an admin user, I want to see all the overdue books from all users.
